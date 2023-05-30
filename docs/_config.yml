@@ -29,7 +29,9 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.laneastdogwalkingservices.co.uk/"
 
-
+header_pages:
+  - about.md
+  - contactus.md
 # Build settings
 theme: minima
 plugins:
