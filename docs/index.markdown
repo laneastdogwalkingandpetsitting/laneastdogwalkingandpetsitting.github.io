@@ -5,3 +5,13 @@
 layout: home
 ---
 <h1>{{ "Hello World!!!" | downcase }}</h1>
+
+Pages:
+Index
+  What we do
+  Area covered
+  Outside 10 mile area
+  
+Contact us
+Prices
+Qualifications

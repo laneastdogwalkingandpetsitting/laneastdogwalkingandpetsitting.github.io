@@ -22,14 +22,13 @@ title: Laneast dog walking and pet sitting services
 email: hello@laneastdogwalkingservices.co.uk
 description: >- # this means to ignore newlines until "baseurl:"
   Professional dog walking and pet sitting. We can also pop in to check
-  on your pets, eg rabbits, cats, guinea pigs, hamster, snake, etc.
+  on your pets while you are away. We've experience of all sorts of small animals, repiles, etc.
   We also are experienced poultry keepers (ducks and chickens) and can look 
   after these while you are away.
   
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.laneastdogwalkingservices.co.uk/"
-twitter_username: jekyllrb
-github_username:  jekyll
+
 
 # Build settings
 theme: minima
