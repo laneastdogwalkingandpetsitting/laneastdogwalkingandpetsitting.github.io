@@ -23,8 +23,8 @@ email: hello@laneastdogwalkingservices.co.uk
 description: >- # this means to ignore newlines until "baseurl:"
   Professional dog walking and pet sitting in the PL15 postal area and beyond
   
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.laneastdogwalkingservices.co.uk/"
+#baseurl: "" # the subpath of your site, e.g. /blog
+#url: "https://www.laneastdogwalkingservices.co.uk/"
 # Build settings
 #logo: "/assets/images/logo.fw.png"
 theme: jekyll-theme-so-simple
