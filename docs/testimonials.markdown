@@ -6,6 +6,7 @@ layout: page
 site.logo:
   path: /assets/images/logo.fw.png
 title: Testimonials
+permalink: /testimonials/
 ---
 ## Coming soon
 

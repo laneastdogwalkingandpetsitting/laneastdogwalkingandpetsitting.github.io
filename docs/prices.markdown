@@ -6,6 +6,7 @@ layout: page
 site.logo:
   path: /assets/images/logo.fw.png
 title: Prices
+permalink: /prices/
 ---
 We try to keep our prices as transparent as possible. For customers within 10 mile-ish radius of us, we charge £15 per hour and £10 for pop in visits (usually last about 20 mins), but a little extra for customers further away - see below.
 
