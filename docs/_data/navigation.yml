@@ -1,6 +1,14 @@
 - title: Home
   url: /
 - title: About us
-  url: /aboutus/
+  url: /about/
+- title: prices
+  url: /prices/
+- title: Qualifications
+  url: /qualifications/
+- title: Testimonials
+  url: /testimonials/
+- title: Area we cover
+  url: /areacovered/
 - title: Contact us
   url: /contactus/
