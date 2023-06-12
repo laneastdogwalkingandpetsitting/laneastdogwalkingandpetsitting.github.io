@@ -7,8 +7,6 @@ site.logo: "/assets/images/logo.fw.png"
 ---
 <h3>Welcome to Laneast dog walking and pet sitting.</h3>
 
-### There should be a menu at the top of the screen, but this isn't appearing for some people - please bear with us - we'll try to sort out what's happening!
-
 We, Hannah and Rich, are a husband and wife team, centred around looking after your pets. Between us, we have a wide area of expertise in looking after pets and animals. We are both **insured and DBS checked** and commited to ensuring your pet is well cared for whilst in our care.
 
 ## What we do

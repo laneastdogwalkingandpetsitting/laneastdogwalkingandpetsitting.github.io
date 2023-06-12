@@ -26,7 +26,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "https://www.laneastdogwalkingservices.co.uk/"
 # Build settings
-copyright: Copyright Laneast dog walking and pet sitting
+copyright: Copyright Laneast dog walking and pet sitting <script src="/assets/js/forcenavopen.js"/>
 logo: "/assets/images/logo.png"
 #theme: jekyll-theme-so-simple
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
