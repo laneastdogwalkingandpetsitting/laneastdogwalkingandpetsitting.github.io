@@ -12,6 +12,7 @@ We, Hannah and Rich, are a husband and wife team, centred around looking after y
 ## What we do
 Our services cover these main areas, but if there's something else you need, [contact us](/contactus/):
 
+
 - [**Dog walking**](dogwalking.html)
 - [**Pet sitting during the day**](petsittingdaytime.html)
 - [**Pet sitting overnight**](petsittingovernight.html)
@@ -38,7 +39,7 @@ The list of animals that we've had ourselves as pets and therefore have experien
 </ul>
 
 Hannah has also worked with exotic animals, rabbits, hamsters, Gerbil, guinea pigs and chinchillas.
-If there is something else not covered, do [get in touch](contactus.html) - we may well be able to help
+If there is something else not covered, do [get in touch](/contactus/) - we may well be able to help
 
 ## Keeping you in touch
 
