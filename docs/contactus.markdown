@@ -10,7 +10,7 @@ Hannah's mobile is 07940 710503 feel free to:
   
 Facebook/Messenger: <a href="https://www.facebook.com/laneastdogpetservice"><img src="/assets/images/facebook.png" style="width:30px">LaneastDogPetService</a>
 
-Email: [hello@laneastdogpetservices.co.uk](mailto:hello@laneastdogpetservices.co.uk)
+Email: [hello@laneastdogwalkingservices.co.uk](mailto:hello@laneastdogwalkingservices.co.uk)
 
 Or send us a message by clicking the speech button at the bottom right of this page.
 

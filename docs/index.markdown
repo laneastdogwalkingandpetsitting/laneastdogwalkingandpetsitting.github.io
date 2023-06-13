@@ -46,7 +46,7 @@ While looking after your pets, we like to show you that they are having a great 
 
 With your permission, we also like to put photos of our clients animals on our Facebook page. We never include their name or location for safety. 
 
-<img src="/assets/images/harvey_ember_charlie25pc.jpg" alt="Harvey, Ember and Charlie" class="align-left" style="padding:10px">
+<img src="/assets/images/harvey_ember_charlie25pc.jpg" alt="Harvey, Ember and Charlie (not sure where Meg was at this point!)" class="align-left" style="padding:10px">
 ## Our helper dogs
 As you might imagine for dog walkers, we have our own dogs too. Sometimes we might bring them along (they are all very well behaved and socialised) to make friends with your dog(s). For some of our customers with nervous dogs, this socialisation has really helped bring them out of their shell.
 
