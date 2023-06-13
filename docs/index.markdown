@@ -12,7 +12,6 @@ We, Hannah and Rich, are a husband and wife team, centred around looking after y
 ## What we do
 Our services cover these main areas, but if there's something else you need, [contact us](/contactus/):
 
-
 - [**Dog walking**](dogwalking.html)
 - [**Pet sitting during the day**](petsittingdaytime.html)
 - [**Pet sitting overnight**](petsittingovernight.html)

@@ -9,5 +9,5 @@ title: Testimonials
 permalink: /testimonials/
 ---
 ## Coming soon
-
+We've asked some of our customers if they wouldn't mind writing something. This is where it will go.
 
