@@ -5,6 +5,7 @@
 layout: home
 site.logo: "/assets/images/logo.fw.png"
 ---
+[Hot spell update. Please read our post about dog walks in this heat](/website/2023/06/14/hotweather.html){: .btn .btn--warning}
 <h3>Welcome to Laneast dog walking and pet sitting.</h3>
 
 We, Hannah and Rich, are a husband and wife team, centred around looking after your pets. Between us, we have a wide area of expertise in looking after pets and animals. We are both **insured and DBS checked** and commited to ensuring your pet is well cared for whilst in our care.
@@ -17,8 +18,11 @@ Our services cover these main areas, but if there's something else you need, [co
 - [**Pet sitting overnight**](petsittingovernight.html)
 - [**Equestrian/small holding visits**](equestriansmallholdingvisits.html)
 - [**Small animal/cat pop in visits**](smallanimalvisits.html)
+- [**Take your pet to the vet if you're unable to**](pettovettransport.html)
 
-No matter what service we're providing for you, we will always arrange a convenient time with you to come and meet you and your pets to discuss the finer details. This visit is completely free of charge and there is no obligation to take us up with our services. We usually ask you to complete our [data collection form](/assets/pdf/collectionformmay2023.pdf) so we have a record of important details.
+*Note: We're not able to provide kennel or home boarding (where your pet stays with us). We thought about it, but decided it not fair on our own pets.*
+
+No matter what service we're providing for you, we will always arrange a convenient time with you to come and meet you and your pets to discuss the finer details. This visit is **completely free of charge** and there is no obligation to take us up with our services. We usually ask you to complete our [data collection form](/assets/pdf/collectionformmay2023.pdf) so we have a record of important details.
 
 ## Animals we have experience of:
 <img src="/assets/images/sittinghorse10pc.jpg" class="align-right" alt="My horse Basil" style="padding:10px">
@@ -38,6 +42,7 @@ The list of animals that we've had ourselves as pets and therefore have experien
 </ul>
 
 Hannah has also worked with exotic animals, rabbits, hamsters, Gerbil, guinea pigs and chinchillas.
+Rich grew up on a pig farm, so has experience of pigs, chickens & ducks. 
 If there is something else not covered, do [get in touch](/contactus/) - we may well be able to help
 
 ## Keeping you in touch
