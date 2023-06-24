@@ -8,7 +8,7 @@ site.logo:
 title: Testimonials
 permalink: /testimonials/
 ---
-We asked some of our regular customers if they would mind giving us a testimonial.
+We asked some of our customers if they would mind giving us a testimonial:
 
 > "We have used Laneast dog walking and sitting services for over a year now and have always found Hannah and Rich to be kind, considerate and utterly trustworthy. Our dogs absolutely adore them. They take the time to understand what we and the dogs need, and are always willing to help at short notice if they can. They’ve walked their dogs with ours to help settle them in and socialise them. We are extremely grateful for their support. We have no hesitation in recommending them for dog walking and sitting services."
 
