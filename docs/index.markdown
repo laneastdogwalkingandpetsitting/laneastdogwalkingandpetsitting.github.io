@@ -5,6 +5,8 @@
 layout: home
 site.logo: "/assets/images/logo.fw.png"
 ---
+
+
 <h3>Welcome to Laneast dog walking and pet sitting.</h3>
 
 We, Hannah and Rich, are a husband and wife team, centred around looking after your pets. Between us, we have a wide area of expertise in looking after pets and animals. We are both **insured and DBS checked** and commited to ensuring your pet is well cared for whilst in our care.
@@ -59,3 +61,8 @@ Our dogs are:
 - Ember (fox red lab)
 - Charlie (chocolate lab cross spaniel)
 - Harvey (golden retriever)
+
+
+
+
+
