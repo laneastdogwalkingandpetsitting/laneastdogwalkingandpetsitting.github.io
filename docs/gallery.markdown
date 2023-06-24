@@ -38,15 +38,18 @@ gallery_images:
 
 
 ---
+Coming soon ... (we promise - just need to get some photos sorted).
+<div style="display:none">
 Some of the pets and animals that we look after:
-<div style="display:flex; flex-wrap: wrap;">
-{% for img in page.gallery_images %}
-  <div style="padding:10px;">
-    <a href="/assets/images/gallery/{{ img }}">
-        <img src="/assets/images/gallery/tn/tn_{{ img }}" style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"/>
-    </a>
+  <div style="display:flex; flex-wrap: wrap;">
+  {% for img in page.gallery_images %}
+    <div style="padding:10px;">
+      <a href="/assets/images/gallery/{{ img }}">
+          <img src="/assets/images/gallery/tn/tn_{{ img }}" style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"/>
+      </a>
+    </div>
+  {% endfor %}
   </div>
-{% endfor %}
 </div>
 <script type="text/javascript" src="/assets/js/lightbox.js"></script>
 <link rel="stylesheet" href="/assets/css/lightbox.css">
