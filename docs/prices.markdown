@@ -26,4 +26,4 @@ We try to keep our prices as transparent as possible. For customers within 10 mi
 For customers further away, we charge a little extra due to the extra time needed to get to and from you (and the fuel). Usually this is £6 extra per visit, but please [contact us](/contactus/) for a quote.
 
 <h2>Days we work</h2>
-We try to keep most of our work to Monday to Friday, but of course if a customer is going away, animals still need looking after so we work weekends too. We try to work a reduced schedule (not that it ends up reduced sometimes). If you'd like to make use of our services on a weekend, or indeed bank holiday, just do get [in touch](/contactus/) and ask.
+We try to keep most of our work to Monday to Friday, but of course if a customer is going away, animals still need looking after so we work weekends too. We try to work a reduced schedule (not that it ends up reduced sometimes). If you'd like to make use of our services on a weekend, or indeed bank holiday, just do get [in touch](/contactus/) and ask. We don't charge any extra on weekends or bank holiday.
