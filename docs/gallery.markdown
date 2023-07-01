@@ -38,9 +38,7 @@ gallery_images:
 
 
 ---
-Coming soon ... (we promise - just need to get some photos sorted).
-<div style="display:none">
-Some of the pets and animals that we look after:
+Some of the pets and animals that we look after (more to come soon):
   <div style="display:flex; flex-wrap: wrap;">
   {% for img in page.gallery_images %}
     <div style="padding:10px;">
@@ -50,6 +48,6 @@ Some of the pets and animals that we look after:
     </div>
   {% endfor %}
   </div>
-</div>
+
 <script type="text/javascript" src="/assets/js/lightbox.js"></script>
 <link rel="stylesheet" href="/assets/css/lightbox.css">
