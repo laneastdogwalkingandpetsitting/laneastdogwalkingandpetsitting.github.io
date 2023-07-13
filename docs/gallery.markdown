@@ -59,7 +59,7 @@ gallery_images:
 
 
 ---
-Some of the pets and animals that we look after (more to come soon):
+Some of the pets and animals that we look after:
   <div style="display:flex; flex-wrap: wrap;">
   {% for img in page.gallery_images %}
     <div style="padding:10px;">
