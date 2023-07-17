@@ -17,7 +17,8 @@ We try to keep our prices as transparent as possible. For customers within 10 mi
 <tr><td><a href="/equestriansmallholdingvisits.html">1 hour horse related</a><br/>
   <span style="font-size:smaller">Feeding/checking horse, poo picking, etc.</span></td><td>£15 per hour</td></tr>
 <tr><td><a href="/overnightpetsitting.html">Overnight pet sitting</a><br/>
-  <span style="font-size:smaller">Doesn't include walking dogs. When I come to your house at 6pm, it's to feed your pets and settle down, not head out again. Please book a dog walk as extra.</span></td><td>£65 per night no matter how many pets</td></tr>
+  <span style="font-size:smaller">Unfortunately this doesn't include walking dogs. I will arrive at 6pm and I'm happy to feed your dogs/pets, 
+  but its too late for me to be heading out with your dogs. Please book a dog walk as an additional service.</span></td><td>£65 per night no matter how many pets</td></tr>
 <tr><td>Pop in visits<br/>
   <span style="font-size:smaller">To check and feed your cat/small animal. A visit lasting about 20 mins.</span>
 </td><td>£10 per visit</td></tr>
