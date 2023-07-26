@@ -4,8 +4,7 @@ title: About
 permalink: /about/
 ---
 Laneast dog walking and pet sitting consists of Hannah and Rich, husband and wife, business partners.
-<img src="/assets/images/hannahwith3dogs60pc.jpg" class="align-right" style="padding:10px">
-
+<img src="/assets/images/both681x484.jpg" class="align-right" style="padding:10px">
 
 Both Hannah and Rich are animal lovers, especially Hannah and for many years have had their own pets. Dog & cats mainly, but have also 
 kept various others too. 
@@ -21,10 +20,10 @@ so we asked the question on Facebook if anyone was interested and the flood gate
 
 So, Laneast dog walking and pet sitting began. We purchased dog walking and pet sitting insurance, Hannah handed in her notice from her part time job and for then next month, worked mornings at her kitchen assistant job, then jumped in her car and went meeting new customers, walking dogs, finishing around 6pm every day.
 
-<img src="/assets/images/richwithchoclabandsausagedog60pc.jpg" class="align-left" style="padding:10px">
+<img src="/assets/images/hannahwith3dogs60pc.jpg" class="align-left" style="padding:10px">
 
-By the time of Hannah's last day at work, she already had a full diary. She'd was grateful not having delayed handing in her notice. 
-She continued pushing ahead, expecting things to calm down at some point, but it hasn't, so around Chrismas 2022, Rich made the decision 
+By the time of Hannah's last day at work, she already had a full diary. Grateful not having delayed handing in her notice, 
+she continued pushing ahead, expecting things to calm down at some point, but it hasn't, so around Chrismas 2022, Rich made the decision 
 to join the business, and we formed a business partnership.
 
 Between us we have an extensive knowledge of all sorts of pets and animals. Hannah from all the pets we've had, working in an exotic pet 

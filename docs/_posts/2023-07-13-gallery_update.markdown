@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "New vehicle"
+title:  "Gallery update"
 date:   2023-06-28 08:00:00 +0100
 categories: website
 ---
