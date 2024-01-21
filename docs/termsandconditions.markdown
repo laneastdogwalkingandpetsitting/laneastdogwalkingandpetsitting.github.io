@@ -1,7 +1,7 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
+D
 layout: page
 site.logo:
   path: /assets/images/logo.fw.png
@@ -19,6 +19,6 @@ We reserve the right to charge for any visit cancelled with less than 24 hours n
 
 ### Payment.
 
-We ask for payment by Friday of the week the service was provided . For example if we walk your dog on Monday and Wednesday, please pay by Friday.
+We ask for payment by Friday of the week the service was provided. For example if we walk your dog on Monday and Wednesday, we ask that you pay by Friday.
 
 Thank you for your understanding.
