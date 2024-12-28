@@ -8,23 +8,26 @@ site.logo:
 title: Prices
 permalink: /prices/
 ---
-We try to keep our prices as transparent as possible. For customers within 10 mile-ish radius of us, we charge £15 per hour and £10 for pop in visits (usually last about 20 mins), but a little extra for customers further away - see below.
+We try to keep our prices as transparent as possible. We have slightly increased sonme of our prices starting January 2025.
+For customers within 10 mile-ish radius of us, we charge £15 per hour and £12.50 for pop in visits (usually lasting about 20 mins), but a little extra for customers further away - see below.
 
 <table>
 <tr><td>1 hour dog walk</td><td>£15 per hour</td></tr>
-<tr><td>1 hour dog walk for an additional dog from the same household</td><td>£6 per hour</td></tr>
-<tr><td>1 hour daytime pet sitting</td><td>£15 per hour</td></tr>
-<tr><td><a href="/equestriansmallholdingvisits.html">1 hour horse related</a><br/>
-  <span style="font-size:smaller">Feeding/checking horse, poo picking, etc.</span></td><td>£15 per hour</td></tr>
-<tr><td><a href="/overnightpetsitting.html">Overnight pet sitting</a><br/>
-  <span style="font-size:smaller">Unfortunately this doesn't include walking dogs. I will arrive at 6pm and I'm happy to feed your dogs/pets, 
-  but its too late for me to be heading out with your dogs. Please book a dog walk as an additional service.</span></td><td>£65 per night no matter how many pets</td></tr>
+<tr><td>1 hour dog walk for an additional dog from the same household</td>
+  <td>£6 per hour</td></tr>
+<tr><td>1 hour daytime pet sitting</td>
+  <td>£15 per hour</td></tr>
 <tr><td>Pop in visits<br/>
   <span style="font-size:smaller">To check and feed your cat/small animal. A visit lasting about 20 mins.</span>
-</td><td>£10 per visit</td></tr>
+</td><td>£12.50 per visit</td></tr>
 </table>
- 
 For customers further away, we charge a little extra due to the extra time needed to get to and from you (and the fuel). Usually this is £6 extra per visit, but please [contact us](/contactus/) for a quote.
 
-<h2>Days we work</h2>
+<h2>Days of the week that we work</h2>
 We try to keep most of our work to Monday to Friday, but of course if a customer is going away, animals still need looking after so we work weekends too. We try to work a reduced schedule (not that it ends up reduced sometimes). If you'd like to make use of our services on a weekend, or indeed bank holiday, just do get [in touch](/contactus/) and ask. We don't charge any extra on weekends or bank holiday.
+
+<h2>Holidays</h2>
+We're trying to adjust our work life balance a little, otherwise we find ourselves working all the time, so we are reserving a weekend off per month from March to October (hoping for nice-ish weather) and a week off during June/July time. Please [contact us](/contactus/) for exact dates.
+
+<h2>Services we are no longer able to offer</h2>
+Certain services we are no longer able to offer - the old saying of being a victim of your own success, applies - our schedule is full of dog walking and pop-ins meaning something had to go. Therefore, we are no longer able to offer equestrian related services and overnight pet sits.

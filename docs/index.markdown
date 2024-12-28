@@ -16,14 +16,16 @@ Our services cover these main areas, but if there's something else you need, [co
 
 - [**Dog walking**](dogwalking.html)
 - [**Pet sitting during the day**](petsittingdaytime.html)
-- [**Pet sitting overnight**](petsittingovernight.html)
-- [**Equestrian/small holding visits**](equestriansmallholdingvisits.html)
-- [**Small animal/cat pop in visits**](smallanimalvisits.html)
+- ~~[**Pet sitting overnight**](petsittingovernight.html)~~
+- ~~[**Equestrian/small holding visits**](equestriansmallholdingvisits.html)~~
+- [**Small animal/cat pop-in visits**](smallanimalvisits.html)
 - [**Take your pet to the vet if you're unable to**](pettovettransport.html)
 
-*Note: We're not able to provide kennel or home boarding (where your pet stays with us). We thought about it, but decided it not fair on our own pets.*
+*Note: We're not able to provide kennel or home boarding (where your pet stays with us). We considered it, but decided it not fair on our own pets.*
 
-No matter what service we're providing for you, we will always arrange a convenient time with you to come and meet you and your pets to discuss the finer details. This visit is **completely free of charge** and there is no obligation to take us up with our services. We usually ask you to complete our [data collection form](/assets/pdf/collectionformmay2023.pdf) so we have a record of important details.
+*We are no longer able to provide equestrian services or overnight pet sitting - please see our [prices page](/prices/) for more information.
+
+No matter what service we're providing for you, we will always arrange a convenient time with you to come and meet you and your pets to discuss the finer details. This visit is **completely free of charge** and there is no obligation to take us up with our services. We usually ask you to complete our [data collection form](/assets/pdf/collectionformaug2023.pdf) so we have a record of important details.
 
 ## Animals we have experience of:
 <img src="/assets/images/sittinghorse10pc.jpg" class="align-right" alt="My horse Basil" style="padding:10px">
