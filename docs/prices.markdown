@@ -30,4 +30,6 @@ We try to keep most of our work to Monday to Friday, but of course if a customer
 We're trying to adjust our work life balance a little, otherwise we find ourselves working all the time, so we are reserving a weekend off per month from March to October (hoping for nice-ish weather) and a week off during June/July time. Please [contact us](/contactus/) for exact dates.
 
 <h2>Services we are no longer able to offer</h2>
-Certain services we are no longer able to offer - the old saying of being a victim of your own success, applies - our schedule is full of dog walking and pop-ins meaning something had to go. Therefore, we are no longer able to offer equestrian related services and overnight pet sits.
+Certain services we are no longer able to offer - the old saying of being a victim of your own success, applies - our schedule is full of dog walking and pop-ins meaning something had to go. Therefore, we are no longer able to offer equestrian related services and overnight pet sits. 
+
+If helpful, we have links with other similar businesses in the area, so might be able to point you in the direction of someone who could help, do [get in touch](/contactus/) for exact dates.
