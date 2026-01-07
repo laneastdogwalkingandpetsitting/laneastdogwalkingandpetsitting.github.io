@@ -28,6 +28,16 @@ For customers further away, we charge a little extra due to the extra time neede
 <h2>Evening and weekend rates</h2>
 We try to keep most of our work to Monday to Friday, but of course if a customer is going away, animals still need looking after, so we work weekends and evenings too, but we do charge a little extra. Weekend and evening dog walks are £20 per hour for the first dog (additional dogs from the same household remaining at £10 per dog). Pop-ins are £15 per visit and pet sits are £20 her hour.
 
+<h2>Cancellations</h2>
+We completely understand that things pop up unexpectedly and therefore we've tried to be as fair as we can but the following applies for cancellations:
+<ul>
+<li>giving 24hrs or less notice = full charge of walk/visit</li>
+<li>48hrs notice = 50% charge of walk/visit</li>
+<li>Anything over 48 hours notice = no charge</li>
+</ul>
+This way, we have a chance to re-organise the schedule for the day and hopefully take on work to make up for the lost income. This matches other dog walkers in the area are also doing.
+We are happy to waive this for emergencies, for example, your pet has become suddenly ill and needs to be taken to the vet or you yourself are ill.
+
 <h2>Holidays</h2>
 We're trying to adjust our work life balance a little, otherwise we find ourselves working all the time, so we are reserving a weekend off per month from March to October (hoping for nice-ish weather) and a week off during June/July time. Please [contact us](/contactus/) for exact dates.
 
