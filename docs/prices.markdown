@@ -35,7 +35,7 @@ We completely understand that things pop up unexpectedly and therefore we've tri
 <li>48hrs notice = 50% charge of walk/visit</li>
 <li>Anything over 48 hours notice = no charge</li>
 </ul>
-This way, we have a chance to re-organise the schedule for the day and hopefully take on work to make up for the lost income. This matches other dog walkers in the area are also doing.
+This way, we have a chance to re-organise the schedule for the day and hopefully take on work to make up for the lost income. This matches what other dog walkers in the area are also doing.
 We are happy to waive this for emergencies, for example, your pet has become suddenly ill and needs to be taken to the vet or you yourself are ill.
 
 <h2>Holidays</h2>

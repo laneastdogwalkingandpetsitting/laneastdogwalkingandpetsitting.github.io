@@ -8,22 +8,19 @@ site.logo: "/assets/images/logo.fw.png"
 
 
 <h3>Welcome to Laneast dog walking and pet sitting.</h3>
-
 We, Hannah and Rich, are a husband and wife team, centred around looking after your pets. Between us, we have a wide area of expertise in looking after pets and animals. We are both **insured and DBS checked** and commited to ensuring your pet is well cared for whilst in our care.
+
+Hannah mainly does group dog walking while Rich mainly does the solo dog walks and we both do pop-in visits.
 
 ## What we do
 Our services cover these main areas, but if there's something else you need, [contact us](/contactus/):
 
 - [**Dog walking**](dogwalking.html)
 - [**Pet sitting during the day**](petsittingdaytime.html)
-- ~~[**Pet sitting overnight**](petsittingovernight.html)~~
-- ~~[**Equestrian/small holding visits**](equestriansmallholdingvisits.html)~~
 - [**Small animal/cat pop-in visits**](smallanimalvisits.html)
 - [**Take your pet to the vet if you're unable to**](pettovettransport.html)
 
 *Note: We're not able to provide kennel or home boarding (where your pet stays with us). We considered it, but decided it not fair on our own pets.*
-
-*We are no longer able to provide equestrian services or overnight pet sitting - please see our [prices page](/prices/) for more information.
 
 No matter what service we're providing for you, we will always arrange a convenient time with you to come and meet you and your pets to discuss the finer details. This visit is **completely free of charge** and there is no obligation to take us up with our services. We usually ask you to complete our [data collection form](/assets/pdf/collectionformaug2023.pdf) so we have a record of important details.
 
@@ -54,17 +51,17 @@ While looking after your pets, we like to show you that they are having a great 
 
 With your permission, we also like to put photos of our clients animals on our Facebook page. We never include their name or location for safety. 
 
-<img src="/assets/images/harvey_ember_charlie25pc.jpg" alt="Harvey, Ember and Charlie (not sure where Meg was at this point!)" class="align-left" style="padding:10px">
 ## Our helper dogs
 As you might imagine for dog walkers, we have our own dogs too. Sometimes we might bring them along (they are all very well behaved and socialised) to make friends with your dog(s). For some of our customers with nervous dogs, this socialisation has really helped bring them out of their shell.
+<img src="/assets/images/ourhelperdogs50pc.jpg" alt="Hannah, Harper, Winston, Charlie, Ember and Meg" style="padding:10px">
+
+
+
 
 Our dogs are:
 - Meg (chocolate lab cross pointer)
 - Ember (fox red lab)
 - Charlie (chocolate lab cross spaniel)
-- Harvey (golden retriever)
-
-
-
-
-
+- Winston (golden retriever)
+- Harper (chocolate lab)
+<div style="clear:both"></div>
