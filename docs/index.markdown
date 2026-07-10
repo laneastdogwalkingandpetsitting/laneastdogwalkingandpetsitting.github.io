@@ -22,7 +22,7 @@ Our services cover these main areas, but if there's something else you need, [co
 
 *Note: We're not able to provide kennel or home boarding (where your pet stays with us). We considered it, but decided it not fair on our own pets.*
 
-No matter what service we're providing for you, we will always arrange a convenient time with you to come and meet you and your pets to discuss the finer details. This visit is **completely free of charge** and there is no obligation to take us up with our services. We usually ask you to complete our [data collection form](/assets/pdf/collectionformaug2023.pdf) so we have a record of important details.
+No matter what service we're providing for you, we will always arrange a convenient time with you to come and meet you and your pets to discuss the finer details. This visit is **completely free of charge** and there is no obligation to take us up with our services.
 
 ## Animals we have experience of:
 <img src="/assets/images/sittinghorse10pc.jpg" class="align-right" alt="My horse Basil" style="padding:10px">
@@ -54,9 +54,6 @@ With your permission, we also like to put photos of our clients animals on our F
 ## Our helper dogs
 As you might imagine for dog walkers, we have our own dogs too. Sometimes we might bring them along (they are all very well behaved and socialised) to make friends with your dog(s). For some of our customers with nervous dogs, this socialisation has really helped bring them out of their shell.
 <img src="/assets/images/ourhelperdogs50pc.jpg" alt="Hannah, Harper, Winston, Charlie, Ember and Meg" style="padding:10px">
-
-
-
 
 Our dogs are:
 - Meg (chocolate lab cross pointer)
