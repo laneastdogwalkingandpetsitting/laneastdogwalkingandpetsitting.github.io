@@ -62,3 +62,5 @@ Our dogs are:
 - Winston (golden retriever)
 - Harper (chocolate lab)
 <div style="clear:both"></div>
+
+<hr/>
