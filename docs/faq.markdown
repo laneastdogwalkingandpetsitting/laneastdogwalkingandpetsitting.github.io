@@ -18,7 +18,7 @@ permalink: /faq/
 <tr style="background:#EEEEEE"><td>Q.</td><td>What is the difference between a solo and group walk for my dog?</td></tr>
 <tr style="background:#EEEEEE"><td>A.</td><td>Solo is for dogs who need to be walked alone, or with dogs from the same household. These are suitable for dogs who are reactive or just dogs who don't wish to walk with other dogs, giving you and the dogs peace of mind.
 <br/>
-Group walks are suitable for dogs who love to mix with other dogs and play. They need to be friendly, walk well on a lead and listen to you. Mustn't be reactive to other dogs if they find food, sticks, or toys while on a walk
+Group walks are suitable for dogs who love to mix with other dogs and play. They need to be friendly, walk well on a lead and listen to you. Mustn't be reactive to other dogs if they find food, sticks, or toys while on a walk.
 <br/>
 Spaces are limited for solo and group walks. When taking on new clients (both solo and group walks), we start on a trial basis to make sure everyone is settled and happy.</td></tr>
 
