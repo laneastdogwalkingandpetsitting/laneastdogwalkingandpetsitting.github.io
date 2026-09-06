@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-Laneast dog walking and pet sitting consists of Hannah and Rich, husband and wife, business partners.
+Laneast dog walking services consists of Hannah and Rich, husband and wife, business partners.
 <img src="/assets/images/both681x484.jpg" class="align-right" style="padding:10px">
 
 Both Hannah and Rich are animal lovers, especially Hannah and for many years have had their own pets. Dog & cats mainly, but have also 

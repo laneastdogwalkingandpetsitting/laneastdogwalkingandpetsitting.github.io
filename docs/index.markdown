@@ -7,7 +7,7 @@ site.logo: "/assets/images/logo.fw.png"
 ---
 
 
-<h3>Welcome to Laneast dog walking and pet sitting.</h3>
+<h3>Welcome to Laneast dog walking services.</h3>
 We, Hannah and Rich, are a husband and wife team, centred around looking after your pets. Between us, we have a wide area of expertise in looking after pets and animals. We are both **insured and DBS checked** and commited to ensuring your pet is well cared for whilst in our care.
 
 Hannah mainly does group dog walking while Rich mainly does the solo dog walks and we both do pop-in visits.
@@ -16,7 +16,6 @@ Hannah mainly does group dog walking while Rich mainly does the solo dog walks a
 Our services cover these main areas, but if there's something else you need, [contact us](/contactus/):
 
 - [**Dog walking**](dogwalking.html)
-- [**Pet sitting during the day**](petsittingdaytime.html)
 - [**Small animal/cat pop-in visits**](smallanimalvisits.html)
 - [**Take your pet to the vet if you're unable to**](pettovettransport.html)
 

@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Laneast (Launceston, North Cornwall) dog walking and pet sitting services
+title: Laneast (Launceston, North Cornwall) dog walking services
 email: hello@laneastdogwalkingservices.co.uk
 description: >- # this means to ignore newlines until "baseurl:"
-  Professional dog walking and pet sitting in Launceston, Altarnun and Laneast area.
+  Professional dog walking in Launceston, Altarnun and Laneast area.
   <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-G00ECP5TDX"></script>
   <script>window.dataLayer = window.dataLayer || [];
@@ -33,7 +33,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "https://www.laneastdogwalkingservices.co.uk/"
 # Build settings
-copyright: Copyright Laneast dog walking and pet sitting <script src="/assets/js/forcenavopen.js"/><br><a href="/termsandconditions/">Terms and conditions</a>
+copyright: Copyright Laneast dog walking services <script src="/assets/js/forcenavopen.js"/><br><a href="/termsandconditions/">Terms and conditions</a>
 logo: "/assets/images/logo.png"
 #theme: jekyll-theme-so-simple
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
