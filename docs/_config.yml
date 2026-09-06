@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Laneast (Launceston, North Cornwall) dog walking services
+title: Laneast dog walking services (Launceston, North Cornwall) 
 email: hello@laneastdogwalkingservices.co.uk
 description: >- # this means to ignore newlines until "baseurl:"
   Professional dog walking in Launceston, Altarnun and Laneast area.
